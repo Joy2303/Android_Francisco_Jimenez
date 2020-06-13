@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "647052230521",
+    "firebase_url": "https://joydos-5d5e6.firebaseio.com",
+    "project_id": "joydos-5d5e6",
+    "storage_bucket": "joydos-5d5e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647052230521:android:8106fa7af4db7903dfb9a8",
+        "android_client_info": {
+          "package_name": "com.fxjb.joydos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647052230521-bl1nk0t0urrhv8e9rq4ttv64i3s91nc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoUeUCeRnrUI3QSMb36a4w6jmRKL-1EX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647052230521-bl1nk0t0urrhv8e9rq4ttv64i3s91nc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
